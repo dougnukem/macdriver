@@ -1,6 +1,6 @@
 module github.com/progrium/macdriver
 
-go 1.14
+go 1.16
 
 require (
 	github.com/manifold/qtalk v0.0.0-20201222233608-81c04ab41f37
